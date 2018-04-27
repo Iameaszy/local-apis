@@ -1,0 +1,70 @@
+[{
+        "name": "Japanese ramen noodle soup",
+        "cook": { "name": "Chelsie Collins", "url": "https://www.bbcgoodfood.com/chef/lina-croft" },
+        "cooktime": "20 mins",
+        "preparationtime": "20 mins",
+        "level": "easy",
+        "type": "soup",
+        "methodology": {
+            "1": "Mix the chicken stock, garlic, soy sauce, Worcestershire sauce, ginger, five spice, chilli powder and 300ml water in a stockpot or large saucepan, bring to the boil, then reduce the heat and simmer for 5 mins. Taste the stock – add sugar or soy sauce to make it sweeter or saltier to your liking.",
+            "2": "Cook the ramen noodles following pack instructions, then drain and set aside. Slice the pork or chicken, fry in the sesame oil until just starting to brown, then set aside.",
+            "3": "Divide the noodles between four bowls. Top each with a quarter of the meat and spinach, 1 tbsp sweetcorn and two egg halves.",
+            "4": "Strain the stock into a clean pan, then bring to the boil once again. Divide the stock between the bowls, then sprinkle over the nori, spring onion or shallots and sesame seeds. Allow the spinach to wilt slightly before serving."
+        },
+        "ingredients": {
+            "typical": "700ml chicken stock, 3 garlic cloves, halved, 4 tbsp soy sauce, plus extra to season, 1 tsp Worcestershire sauce, thumb-sized piece of ginger, sliced½
+            tsp Chinese five spice,
+            pinch of chilli powder,
+            1 tsp white sugar(optional),
+            375 g ramen noodles,
+            400 g sliced cooked pork or chicken breast,
+            2 tsp sesame oil ",
+            "special": "100g baby spinach, 4 tbsp sweetcorn, 4 boiled eggs, peeled and halved
+            1 sheet dried nori,
+            finely shredded,
+            sliced green spring onions or shallots
+            sprinkle of sesame seeds "
+        },
+        "description": "Use chicken, noodles, spinach, sweetcorn and eggs to make this moreish Japanese noodle soup, for when you crave something comforting yet light and wholesome",
+        "origin": "Japan",
+        "nutritional-value": "kcal(629g), fat (12g), saturates (3g), carbs (75g), sugars (7g),
+        fibre(6 g),
+        protein(51 g),
+        salt(4.9 g)
+        ",
+        "credits": "https://www.bbcgoodfood.com/recipes/722637/japanese-ramen-noodle-soup",
+        "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/11/ramen.jpg"
+    },
+
+    {
+        "name": "Cheat’s chicken ramen",
+        "cook": { "name": "Chelsie Collins", "url": "https://www.bbcgoodfood.com/chef/chelsie-collins" },
+        "cooktime": "15-20 mins",
+        "preparationtime": "10 mins",
+        "level": "easy",
+        "type": "soup",
+        "methodology": {
+            "1": "Set a large saucepan over a medium heat and pour in the stock. Finely chop the coriander stalks and add to the stock with most of the chilli. Bring to the boil and add 200ml water. Once boiled, reduce the heat and simmer for 5-10 mins to infuse the coriander and chilli.",
+            "2": "Add the soy sauce and a grinding of black pepper, then the mushrooms, pak choi, chicken and noodles. Simmer for 2 mins until the noodles soften, before adding the bamboo shoots.",
+            "3": "Serve in deep bowls topped with coriander leaves and the remaining chilli slices."
+        },
+        "ingredients": {
+            "typical": "1.2l good-quality chicken stock, small pack coriander, stalks and leaves separated, 1 red chilli(deseeded if you don’ t like it too hot), sliced
+            2 tbsp light soy sauce,
+            100 g grey oyster mushrooms,
+            sliced 100 g pack baby pak choi,
+            2 skinless cooked chicken breasts,
+            sliced 100 g egg noodles,
+            50 g sliced bamboo shoots ",
+            "special": ""
+        },
+        "description": "This speedy version of the classic Japanese noodle soup makes a delicious everyday dinner or warming lunch - and it's low in fat and calories too",
+        "origin": "Japan",
+        "nutritional-value": "kcal(225g), fat (5g), saturates (2g), carbs (20g), sugars (2g),
+        fibre(4 g),
+        protein(30 g),
+        salt(2.4 g)
+        ",
+        "credits": "https://www.bbcgoodfood.com/recipes/cheats-chicken-ramen"
+    }
+]
