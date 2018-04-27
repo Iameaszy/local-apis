@@ -46,7 +46,10 @@
         },
         "ingredients": {
             "typical": "1.2l good-quality chicken stock, small pack coriander, stalks and leaves separated, 1 red chilli(deseeded if you don’ t like it too hot), sliced 2 tbsp light soy sauce, 100g grey oyster mushrooms, sliced 100g pack baby pak choi, 2 skinless cooked chicken breasts, sliced 100g egg noodles, 50g sliced bamboo shoots ",
-            "special": ""
+            "special": {
+                "name" : "",
+                "items" : ""
+            }
         },
         "description": "This speedy version of the classic Japanese noodle soup makes a delicious everyday dinner or warming lunch - and it's low in fat and calories too",
         "origin": "Japan",
@@ -71,7 +74,10 @@
         },
         "ingredients": {
             "typical": "1 tbsp olive oil, 1 onion, sliced 1 clove of garlic, 1 tbsp butter, 250g mushrooms, sliced, 500g fillet steak, sliced 1 tbsp plain flour, 150g crème fraîche, 1 tsp English mustard, 100ml beef stock, ½ small pack of parsley, chopped",
-            "special" : ""
+            "special" : {
+                "name" : "",
+                "items" : ""
+            }
         },
         "description": "Make a classic beef stroganoff with steak and mushrooms for a tasty midweek meal. Garnish with parsley and serve with pappardelle pasta or rice",
         "origin": "Italy",
