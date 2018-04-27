@@ -1,6 +1,10 @@
-[{
+[
+    {
         "name": "Japanese ramen noodle soup",
-        "cook": { "name": "Chelsie Collins", "url": "https://www.bbcgoodfood.com/chef/lina-croft" },
+        "cook": { 
+            "name": "Chelsie Collins", 
+            "url": "https://www.bbcgoodfood.com/chef/lina-croft" 
+        },
         "cooktime": "20 mins",
         "preparationtime": "20 mins",
         "level": "easy",
@@ -13,18 +17,24 @@
         },
         "ingredients": {
             "typical": "700ml chicken stock, 3 garlic cloves, halved, 4 tbsp soy sauce, plus extra to season, 1 tsp Worcestershire sauce, thumb-sized piece of ginger, sliced ½ tsp Chinese five spice,pinch of chilli powder, 1 tsp white sugar(optional), 375 g ramen noodles, 400 g sliced cooked pork or chicken breast, 2 tsp sesame oil ",
-            "special": "100g baby spinach, 4 tbsp sweetcorn, 4 boiled eggs, peeled and halved 1 sheet dried nori, finely shredded, sliced green spring onions or shallots sprinkle of sesame seeds "
+            "special": {
+                "name" : "garnish",
+                "items" : "100g baby spinach, 4 tbsp sweetcorn, 4 boiled eggs, peeled and halved 1 sheet dried nori, finely shredded, sliced green spring onions or shallots sprinkle of sesame seeds "
+            }
         },
         "description": "Use chicken, noodles, spinach, sweetcorn and eggs to make this moreish Japanese noodle soup, for when you crave something comforting yet light and wholesome",
         "origin": "Japan",
-        "nutritional-value": "kcal(629g), fat (12g), saturates (3g), carbs (75g), sugars (7g), fibre(6 g), protein(51 g), salt(4.9 g)        ",
+        "nutritional-value": "kcal(629g), fat (12g), saturates (3g), carbs (75g), sugars (7g), fibre(6g), protein(51g), salt(4.9g)        ",
         "credits": "https://www.bbcgoodfood.com/recipes/722637/japanese-ramen-noodle-soup",
         "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/11/ramen.jpg"
     },
 
     {
         "name": "Cheat’s chicken ramen",
-        "cook": { "name": "Chelsie Collins", "url": "https://www.bbcgoodfood.com/chef/chelsie-collins" },
+        "cook": { 
+            "name": "Chelsie Collins", 
+            "url": "https://www.bbcgoodfood.com/chef/chelsie-collins" 
+        },
         "cooktime": "15-20 mins",
         "preparationtime": "10 mins",
         "level": "easy",
@@ -35,13 +45,38 @@
             "3": "Serve in deep bowls topped with coriander leaves and the remaining chilli slices."
         },
         "ingredients": {
-            "typical": "1.2l good-quality chicken stock, small pack coriander, stalks and leaves separated, 1 red chilli(deseeded if you don’ t like it too hot), sliced 2 tbsp light soy sauce, 100 g grey oyster mushrooms, sliced 100 g pack baby pak choi, 2 skinless cooked chicken breasts, sliced 100 g egg noodles, 50 g sliced bamboo shoots ",
+            "typical": "1.2l good-quality chicken stock, small pack coriander, stalks and leaves separated, 1 red chilli(deseeded if you don’ t like it too hot), sliced 2 tbsp light soy sauce, 100g grey oyster mushrooms, sliced 100g pack baby pak choi, 2 skinless cooked chicken breasts, sliced 100g egg noodles, 50g sliced bamboo shoots ",
             "special": ""
         },
         "description": "This speedy version of the classic Japanese noodle soup makes a delicious everyday dinner or warming lunch - and it's low in fat and calories too",
         "origin": "Japan",
-        "nutritional-value": "kcal(225g), fat (5g), saturates (2g), carbs (20g), sugars (2g), fibre(4 g), protein(30 g), salt(2.4 g)",
+        "nutritional-value": "kcal(225g), fat (5g), saturates (2g), carbs (20g), sugars (2g), fibre(4g), protein(30g), salt(2.4g)",
         "credits": "https://www.bbcgoodfood.com/recipes/cheats-chicken-ramen",
         "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/cheats-chicken-ramen.jpg"
+    },
+
+    {
+        "name": "Beef stroganoff",
+        "cook": { 
+            "name": "Elena Silcock", 
+            "url": "https://www.bbcgoodfood.com/chef/elena-silcock-0" 
+        },
+        "cooktime": "30 mins",
+        "preparationtime": "10 mins",
+        "level": "easy",
+        "type": "pasta",
+        "methodology": {
+            "1": "Heat the olive oil in a non-stick frying pan then add the sliced onion and cook on a medium heat until completely softened, so around 15 mins, adding a little splash of water if they start to stick at all. Crush in the garlic and cook for a 2-3 mins further, then add the butter. Once the butter is foaming a little, add the mushrooms and cook for around 5 mins until completely softened. Season everything well, then tip onto a plate.",
+            "2": "Tip the flour into a bowl with a big pinch of salt and pepper, then toss the steak in the seasoned flour. Add the steak pieces to the pan, splashing in a little oil if the pan looks particularly dry, and fry for 3-4 mins, until well coloured. Tip the onions and mushrooms back into the pan. Whisk the crème fraîche, mustard and beef stock together, then pour into the pan. Cook over a medium heat for around 5 mins. Scatter with parsley, then serve with pappardelle or rice."
+        },
+        "ingredients": {
+            "typical": "1 tbsp olive oil, 1 onion, sliced 1 clove of garlic, 1 tbsp butter, 250g mushrooms, sliced, 500g fillet steak, sliced 1 tbsp plain flour, 150g crème fraîche, 1 tsp English mustard, 100ml beef stock, ½ small pack of parsley, chopped",
+            "special" : ""
+        },
+        "description": "Make a classic beef stroganoff with steak and mushrooms for a tasty midweek meal. Garnish with parsley and serve with pappardelle pasta or rice",
+        "origin": "Italy",
+        "nutritional-value": "kcal(438g), fat (31g), saturates (17g), carbs (8g), sugars (3g), fibre(2g), protein(30g), salt(0.5g)",
+        "credits": "https://www.bbcgoodfood.com/recipes/beef-stroganoff",
+        "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/09/beefstroganoff.jpg"
     }
 ]
