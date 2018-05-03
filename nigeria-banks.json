@@ -1,0 +1,228 @@
+/* Read more: https://www.entrepreneurn.com/banks/nigerian-banks/ */
+
+[
+    {
+        "Bank Name" : "Access Bank",
+        "Head Office Address" :	"999c, Danmole Street, Off Idejo Street, Off Adeola Odeku Street, Victoria Island, Lagos.",
+        "Website" : "http://www.accessbankplc.com",
+        "Description": "Access Bank later bought or acquired Intercontinental Bank.",
+        "license" : "Commercial banking license with international authorization."
+    },
+    {
+        "Bank Name" : "CitiBank Nigeria",
+        "Head Office Address" :	"27, Kofo Abayomi Street, Victoria Island, Lagos.",
+        "Website" : "http://www.citigroup.com/citigroup/global/nga.htm",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name" : "Diamond Bank",
+        "Head Office Address" :	"Plot 1261, Adeola Hopewell Street, P.O.Box 70381, Victoria Island, Lagos",
+        "Website" : "",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Ecobank Nigeria",
+        "Head Office Address": "21, Ahmadu Bello Way, Victoria Island, Lagos.",
+        "Website": "http://www.ecobank.com",
+        "Description": "Ecobank Nigeria acquired Oceanic Bank at a point.",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name" : "Enterprise Bank Limited",
+        "Head Office Address" :	"Plot 143, Ahmadu Bello way, Victoria Island, Lagos",
+        "Website" : "",
+        "Description": "It was formerly Spring Bank.",
+        "license": ""
+    },
+    {
+        "Bank Name": "Fidelity Bank Nigeria",
+        "Head Office Address": "2, Kofo Abayomi Street, Victoria Island Lagos",
+        "Website": "http://www.fidelitybankplc.com",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "First Bank Nigeria",
+        "Head Office Address": "Samuel Asabia House, 35, Marina, Lagos",
+        "Website": "http://www.firstbanknigeria.com",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "First City Monument Bank",
+        "Head Office Address": "Primose Towers, 17a, Tinubu Street, Lagos.",
+        "Website": "http://www.finbankplc.com",
+        "Description": "The bank acquired FinBank at a point.",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "FSDH Merchant Bank",
+        "Head Office Address": "UAC House, 5th-8th Floor, 1/5 Odunlami Street, P.M.B 12913, Lagos.",
+        "Website": "",
+        "Description": "It is a Merchant Bank.",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Guaranty Trust Bank (GTB)",
+        "Head Office Address": "635, Akin Adesola Street, Victoria Island, Lagos, Nigeria",
+        "Website": "http://www.gtbank.com",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Heritage Bank Plc",
+        "Head Office Address": "292b, Ajose Adeogun Street, Victoria Island, Lagos.",
+        "Website": "",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Keystone Bank Limited",
+        "Head Office Address": "Keystone House, 1, Keystone Crescent, Victoria Island, Lagos.",
+        "Website": "http://www.keystonebankng.com",
+        "Description": "They are formerly Bank PHB.",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Mainstreet Bank",
+        "Head Office Address": "Afribank Plaza, 14th Floor, 51/55, Broad Street, Lagos",
+        "Website": "",
+        "Description": "",
+        "license": ""
+    },
+    {
+        "Bank Name": "Rand Merchant Bank",
+        "Head Office Address": "12th Floor, Churchgate Towers, 2 Plot PC 31, Churchgate Street, Victoria Island, Lagos.",
+        "Website": "",
+        "Description": "They are into Merchant banking as their name indicates.",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Skye Bank",
+        "Head Office Address": "3, Akin Adesola Street, Victoria Island, Lagos",
+        "Website": "http://www.skyebankng.com",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Stanbic IBTC Bank Nigeria Limited",
+        "Head Office Address": "IBTC Place, Walter Carrington Crescent, Victoria Island, Lagos.",
+        "Website": "http://www.ibtc.com",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Standard Chartered Bank",
+        "Head Office Address": "Their head office is located at 142, Ahmadu Bello Way, Victoria Island, Lagos.",
+        "Website": "http://www.standardchartered.com/ng",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Sterling Bank",
+        "Head Office Address": "Sterling Towers, 20, Marina, Lagos.",
+        "Website": "http://www.sterlingbankng.com",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "SunTrust Bank Nigeria",
+        "Head Office Address": "1 Oladele Olashore Street, Victoria Island, Lagos",
+        "Website": "",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Union Bank of Nigeria",
+        "Head Office Address": "Stallion Plaza, 36 Marina, Lagos",
+        "Website": "http://www.unionbankng.com",
+        "Description": "The bank is owned by Union Global Partners Limited. ",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "United Bank For Africa (UBA)",
+        "Head Office Address": "57, Marina, Lagos",
+        "Website": "http://www.ubaplc.com",
+        "Description": "",
+        "license": ""
+    },
+    {
+        "Bank Name": "Unity Bank",
+        "Head Office Address": "Plot 497, Central Business District, Abogo Largema Street, Abuja / Plot 785, Herbert Macaulay Way, Central Business District, Abuja",
+        "Website": "http://www.unitybankng.com",
+        "Description": "",
+        "license": ""
+    },
+    {
+        "Bank Name": "Wema Bank",
+        "Head Office Address": "Wema Towers 54, Marina, Lagos Island, Lagos.",
+        "Website": "http://www.wemabank.com",
+        "Description": "",
+        "license": ""
+    },
+    {
+        "Bank Name": "Zenith Bank",
+        "Head Office Address": "84, Ajose Adeogun Street, Victoria Island, Lagos.",
+        "Website": "http://www.zenithbank.com",
+        "Description": "",
+        "license": "Commercial banking license with national authorization."
+    },
+    {
+        "Bank Name": "Suntrust Bank Nigeria Limited",
+        "Head Office Address": "1, Oladele Olashore Street, Victoria Island, Lagos.",
+        "Website": "",
+        "Description": "",
+        "license": "Commercial banking license with regional authorization."
+    },
+    {
+        "Bank Name": "Providusbank Plc",
+        "Head Office Address": "54, Adetokunbo Ademola Street, Victoria Island, Lagos.",
+        "Website": "",
+        "Description": "",
+        "license": "Commercial banking license with regional authorization."
+    },
+    {
+        "Bank Name": "Jaiz Bank Limited",
+        "Head Office Address": "Kano House, Plot 73, Ralph Shodeinde Street, Central Business District, Abuja.",
+        "Website": "",
+        "Description": "It is the first and only non interest bank in Nigeria.",
+        "license": "Non-interest banking license with national authorization."
+    },
+    {
+        "Bank Name": "FCMB Group Plc",
+        "Head Office Address": "First City Plaza, 44 Marina, Lagos.",
+        "Website": "",
+        "Description": "Have financial holding companies in Nigeria.",
+        "license": ""
+    },
+    {
+        "Bank Name": "FBN Holdings Plc",
+        "Head Office Address": "Samuel Asabia House, 35 Marina, P.O. Box 5216, Lagos.",
+        "Website": "",
+        "Description": "",
+        "license": "Have financial holding companies in Nigeria."
+    },
+    {
+        "Bank Name": "Stanbic IBTC Holdings Plc",
+        "Head Office Address": "I.B.T.C Place, Walter Carrington Crescent, P.O. Box 71707, Victoria Island, Lagos.",
+        "Website": "",
+        "Description": "",
+        "license": ""
+    },
+    {
+        "Bank Name": "Coronation Merchant Bank",
+        "Head Office Address": "St. Nicholas House, 6th Floor, 28A, Catholic Mission Street, P.M.B 12511, Marina, Lagos.",
+        "Website": "",
+        "Description": "",
+        "license": "Merchant banking license with national authorization."
+    },
+    {
+        "Bank Name": "FBN Merchant Bank",
+        "Head Office Address": "2, Broad Street, P.O. Box 4238, Lagos.",
+        "Website": "",
+        "Description": "",
+        "license": ""
+    }
+]
